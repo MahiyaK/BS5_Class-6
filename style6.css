@@ -1,0 +1,11 @@
+.test{
+	height: 200px;
+	width: 200px;
+	background: lightblue;
+	margin: auto;
+}
+span{
+	width: 100px;
+	margin: auto;
+	display: block;
+}
